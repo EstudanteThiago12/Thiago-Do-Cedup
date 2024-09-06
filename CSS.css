@@ -1,0 +1,109 @@
+.Teste {
+    display: flex;
+    position: space-around;
+    justify-content: space-around;
+    background-color: rgb(3, 3, 3);
+    height: 100px;
+    background-image: url(https://i.pinimg.com/originals/18/2f/fc/182ffc5d5b2490174b9efcaa6969ec01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-rendering: 200px;
+    color: rgb(255, 255, 255);
+  }
+  h1 {
+    justify-content: left;
+  }
+  body {
+    background-color: rgb(169, 221, 90);
+    image-resolution: calc(20px);
+    border-radius: 16px;
+    margin: 0;
+  }
+  #Ben10imagen {
+    height: 100px;
+    image-orientation: right;
+    color: green;
+    border-radius: 100px;
+    margin-left: 10%;
+  }
+  #Aliens {
+    color: rgb(8, 51, 8);
+  }
+  #Chamas {
+    color: orange;
+  }
+  #QuatroBracos {
+    color: red;
+  }
+  #Bola {
+    color: rgb(134, 141, 37);
+  }
+  #XLR8 {
+    color: blue;
+  }
+  #Ultra {
+    color: green;
+  }
+  
+  .Tabela ol {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .Tabela a {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    width: auto; 
+    text-align: center;
+  }
+  .Tabela img {
+    height: 200px;
+    border-radius: 20px;
+  }
+  #Autor {
+    color: rgb(226, 43, 43);
+    text-align: center;
+  }
+  
+  main {
+    box-sizing: border-box;
+    height: 80vh;
+  }
+  #AlienX{
+    color: black;
+  }
+  #Blitzwolfer{
+    color: gray;
+  }
+  #Enormossauro{
+    color: brown;
+  }
+  #Gigante{
+    color: white;
+  }
+  .Tabela2 ol {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .Tabela2 a {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    width: auto; 
+    text-align: center;
+  }
+  .Tabela2 img {
+    height: 200px;
+    border-radius: 10px;
+  
+  }
+  
+  
+  
